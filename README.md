@@ -11,7 +11,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
-```C
+```
 
 #include<stdio.h>
 int main()
@@ -49,7 +49,7 @@ Write a C program to read A values and check whether A is positive number or not
 
 # PROGRAM:
 
-```C
+```
 
 #include<stdio.h>
 int main()
@@ -96,7 +96,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## PROGRAM:
 
-```C
+```
 
 #include<stdio.h>
 int main()
@@ -139,7 +139,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## PROGRAM:
 
-```C
+```
 
 #include<stdio.h>
 int main()
@@ -190,7 +190,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 
 ## PROGRAM:
 
-```C
+```
 
 #include<stdio.h>
 int main()
